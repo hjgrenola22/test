@@ -1,0 +1,4 @@
+dist/
+note_modules/
+.parcel-cache/
+node_modules
